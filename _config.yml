@@ -17,7 +17,7 @@ profile_links:
   Email: "mailto:your_email@example.com"
   GitHub: "https://github.com/justasmundeikis"
 
-disqus_shortname: data-science-lt-1 
+disqus_shortname: data-science-lt-1
 
 
 excerpt_separator: <!--more-->
@@ -43,7 +43,7 @@ paginate_path: "page:num"
 highlighter: rouge
 markdown: kramdown
 
-# https://jekyllrb.com/docs/configuration/#precedence
+
 defaults:
   -
     scope:
