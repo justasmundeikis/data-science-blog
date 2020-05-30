@@ -2,9 +2,9 @@
 title: Data-Science.lt
 url: "http://data-science.lt"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
-#timezone: Asia/Chongqing
+timezone: Europe/Vilnius
 description: >
-  One or more sentences introducing this blog.
+  Blogging about Data-Science - R - Python - Linux - Arduino - Raspberrypi
 
 # Your information
 email: your_email@example.com
@@ -31,14 +31,15 @@ header:
     Category: /category/
     Donate: https://laobubu.net/donate.html
 
-permalink: /archivers/:title
+permalink: /:year/:month/:day/:title
+
 plugins:
  - jekyll-paginate
  - jekyll-gist
  - jemoji
 
 # Build settings
-paginate: 5
+paginate: 25
 paginate_path: "page:num"
 
 highlighter: rouge
