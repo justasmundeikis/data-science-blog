@@ -3,7 +3,7 @@ title:      Hello World! And welcome Data-Science.lt
 date:       2020-08-26 14:00:00 +02:00
 author:     Justas Mundeikis
 layout:     post
-permalink:  /2020/04/31/hello-world
+permalink:  /2020/08/26/hello-world
 image:    /assets/2020/08/26/cowsay.png
 thumbnail: /assets/2020/08/26/thumb.cowsay.png
 categories:
