@@ -11,7 +11,7 @@ categories:
 tags:
   - Blog
 ---
-**Hello World! - is probably the first thing, that every beginner programmer learns to print out, be it in a Terminal (command line interface), be it in Python, C... and even in R, the command print(“Hello World!”) is often the first one introduced to newcomers. In this initial blog post I would like briefly to explain, who I am, why and what about this blog should be.**<!--more-->
+**Hello World! - is probably the first thing, that every beginner programmer learns to print out, be it in a Terminal (command line interface), be it in Python, C... and even in R, the command print(“Hello World!”) is often the first one introduced to newcomers. In this initial blog post I would like briefly to explain, who I am, why and what about this blog will be.**<!--more-->
 
 First let me tell you something about me, or
 
